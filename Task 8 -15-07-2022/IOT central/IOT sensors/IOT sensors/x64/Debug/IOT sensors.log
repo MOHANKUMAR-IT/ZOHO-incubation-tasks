@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\zoho-cpp-task\Task 8 -15-07-2022\IOT central\IOT sensors\IOT sensors\Source.cpp(17,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\zoho-cpp-task\Task 8 -15-07-2022\IOT central\IOT sensors\IOT sensors\Source.cpp(11,7): warning C4101: 'buf': unreferenced local variable
+D:\zoho-cpp-task\Task 8 -15-07-2022\IOT central\IOT sensors\IOT sensors\Source.cpp(21,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  IOT sensors.vcxproj -> D:\zoho-cpp-task\Task 8 -15-07-2022\IOT central\IOT sensors\x64\Debug\IOT sensors.exe

@@ -1,0 +1,5 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  SampleServiceMain.cpp
+D:\SampleService\SampleService\SampleServiceMain.cpp(223,15): warning C4101: 'buf': unreferenced local variable
+SampleServiceMain.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  SampleService.vcxproj -> D:\SampleService\SampleService\Debug\SampleService.exe

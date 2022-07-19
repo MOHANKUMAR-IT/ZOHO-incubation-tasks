@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\zoho-cpp-task\Task 3 -08-07-2022\windows service for notepad\windows service for notepad\Source.cpp(134,63): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\zoho-cpp-task\Task 3 -08-07-2022\windows service for notepad\windows service for notepad\Source.cpp(142,25): warning C4477: 'swprintf_s' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 2 has type 'const char *'
+D:\zoho-cpp-task\Task 3 -08-07-2022\windows service for notepad\windows service for notepad\Source.cpp(142,25): message : consider using '%hs' in the format string
+D:\zoho-cpp-task\Task 3 -08-07-2022\windows service for notepad\windows service for notepad\Source.cpp(142,25): message : consider using '%Ts' in the format string
+D:\zoho-cpp-task\Task 3 -08-07-2022\windows service for notepad\windows service for notepad\Source.cpp(142,25): message : this warning is based on non-standard semantics used by Visual C++
+D:\zoho-cpp-task\Task 3 -08-07-2022\windows service for notepad\windows service for notepad\Source.cpp(144,57): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  windows service for notepad.vcxproj -> D:\zoho-cpp-task\Task 3 -08-07-2022\windows service for notepad\x64\Debug\windows service for notepad.exe

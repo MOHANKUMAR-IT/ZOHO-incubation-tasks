@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1092,5): error MSB6006: "link.exe" exited with code 1120.
+Source.obj : error LNK2019: unresolved external symbol "int __cdecl GetLogonSID(void *,void * *)" (?GetLogonSID@@YAHPEAXPEAPEAX@Z) referenced in function "int __cdecl StartInteractiveClientProcess(wchar_t *,wchar_t *,wchar_t *,wchar_t *)" (?StartInteractiveClientProcess@@YAHPEA_W000@Z)
+Source.obj : error LNK2019: unresolved external symbol "void __cdecl FreeLogonSID(void * *)" (?FreeLogonSID@@YAXPEAPEAX@Z) referenced in function "int __cdecl StartInteractiveClientProcess(wchar_t *,wchar_t *,wchar_t *,wchar_t *)" (?StartInteractiveClientProcess@@YAHPEA_W000@Z)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\zoho-cpp-task\Task 3 -08-07-2022\service\x64\Debug\service.exe : fatal error LNK1120: 3 unresolved externals

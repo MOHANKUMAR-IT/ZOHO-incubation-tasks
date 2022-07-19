@@ -1,0 +1,4 @@
+﻿  services.cpp
+D:\zoho-cpp-task\Task 3 -08-07-2022\services\services\services.cpp(20,1): warning C4326: return type of 'wmain' should be 'int' instead of 'void'
+D:\zoho-cpp-task\Task 3 -08-07-2022\services\services\services.cpp(92,15): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+  services.vcxproj -> D:\zoho-cpp-task\Task 3 -08-07-2022\services\x64\Debug\services.exe

@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\zoho-cpp-task\Task 7 -14-07-2022\cpp exceptions\cpp exceptions\Source.cpp(78,20): warning C4101: 'x': unreferenced local variable
+D:\zoho-cpp-task\Task 7 -14-07-2022\cpp exceptions\cpp exceptions\Source.cpp(82,16): warning C4101: 'x': unreferenced local variable
+D:\zoho-cpp-task\Task 7 -14-07-2022\cpp exceptions\cpp exceptions\Source.cpp(94,20): warning C4101: 'x': unreferenced local variable
+D:\zoho-cpp-task\Task 7 -14-07-2022\cpp exceptions\cpp exceptions\Source.cpp(98,16): warning C4101: 'x': unreferenced local variable
+D:\zoho-cpp-task\Task 7 -14-07-2022\cpp exceptions\cpp exceptions\Source.cpp(109,20): warning C4101: 'x': unreferenced local variable
+D:\zoho-cpp-task\Task 7 -14-07-2022\cpp exceptions\cpp exceptions\Source.cpp(113,16): warning C4101: 'x': unreferenced local variable
+  cpp exceptions.vcxproj -> D:\zoho-cpp-task\Task 7 -14-07-2022\cpp exceptions\x64\Debug\cpp exceptions.exe

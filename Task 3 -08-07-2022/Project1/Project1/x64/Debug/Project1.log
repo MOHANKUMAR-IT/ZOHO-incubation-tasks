@@ -1,0 +1,4 @@
+﻿  Project1.cpp
+D:\zoho-cpp-task\Task 3 -08-07-2022\Project1\Project1\Project1.cpp(11,45): warning C4326: return type of 'wmain' should be 'int' instead of 'DWORD'
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: unresolved external symbol WinMain referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\zoho-cpp-task\Task 3 -08-07-2022\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 1 unresolved externals
